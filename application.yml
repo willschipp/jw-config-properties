@@ -2,4 +2,4 @@ security:
   oauth2:
     resource:
       jwt:
-        key-uri: http://localhost:8000/oauth/token_key
+        key-uri: http://jw-auth.cfapps.io/oauth/token_key
