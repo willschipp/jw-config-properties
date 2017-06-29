@@ -5,4 +5,4 @@ security:
         key-uri: http://jw-auth.cfapps.io/oauth/token_key
 
 another:
-  change: here
+  change: more
